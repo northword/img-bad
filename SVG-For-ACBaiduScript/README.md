@@ -22,6 +22,14 @@ div .AC-CounterT{
 }
 ```
 
+
+默认Fav图标：
+```
+https://raw.githubusercontent.com/northword/img-bad/main/SVG-For-ACBaiduScript/Icon-website-fav.svg
+```
+
+
 2020.11.10
 
 Northword
+
